@@ -1,0 +1,4 @@
+D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/Machine_GUI.dir
+D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/Machine_GUI_autogen.dir

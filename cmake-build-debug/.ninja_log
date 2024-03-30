@@ -1,0 +1,27 @@
+# ninja log v5
+5	44	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+2	2022	7325165172363724	build.ninja	a0ea45e94d60e5fb
+5	44	0	CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+5	44	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+5	44	0	Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+1022	1194	7328873939573753	Machine_GUI.exe	b3ff13999cb70227
+459	763	7322112979270400	CMakeFiles/Machine_GUI.dir/Machine_GUI_autogen/mocs_compilation.cpp.obj	cea63bbe2a3eafb6
+44	1022	7328873937858014	CMakeFiles/Machine_GUI.dir/main.cpp.obj	2095ad585c4b5931
+3	44	0	CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+3	44	0	Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+3	44	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+3	44	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+44	1198	7328882092057387	CMakeFiles/Machine_GUI.dir/main.cpp.obj	2095ad585c4b5931
+1198	1405	7328882094091689	Machine_GUI.exe	b3ff13999cb70227
+3	44	0	CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+3	44	0	Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+3	44	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+3	44	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+45	1039	7328882493999627	CMakeFiles/Machine_GUI.dir/main.cpp.obj	2095ad585c4b5931
+1039	1229	7328882495874633	Machine_GUI.exe	b3ff13999cb70227
+16	168	0	CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+16	168	0	Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+16	168	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/CMakeFiles/Machine_GUI_autogen	2d690f865819a778
+16	168	0	D:/Clion_Project/Machine_GUI/cmake-build-debug/Machine_GUI_autogen/mocs_compilation.cpp	2d690f865819a778
+168	4041	7331533118276568	CMakeFiles/Machine_GUI.dir/main.cpp.obj	2095ad585c4b5931
+4041	4806	7331533125914798	Machine_GUI.exe	b3ff13999cb70227
